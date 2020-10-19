@@ -1,0 +1,2 @@
+<?php
+  $nameOfDomain = 'kinogo.ru';
